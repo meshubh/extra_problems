@@ -1,0 +1,4 @@
+1.)Print date in words for a given date in digits
+2.) Find the minrank of a given number
+3.) Find the modulo of x*y(x*y%a)
+4.)Mutiply two numbers without using * and + operator

@@ -1,0 +1,7 @@
+
+1.)Given a six digit number if you multiply by 2 the product should have same digits in it as the orignal number
+2.)Given a six digit number if you multiply by any number(2-7) the product should have same digits in it as the 
+   orignal number
+3.)Given a number convert it into binary form by taking the base as fibnocii series
+4.)Compute the Mineral element
+5.)Compute the Winner element
